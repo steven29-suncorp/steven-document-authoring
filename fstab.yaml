@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.da.live/steven29-suncorp/steven-document-authoring/
+    type: markup
